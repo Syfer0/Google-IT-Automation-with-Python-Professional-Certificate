@@ -7,7 +7,7 @@ All project file contain the Explain
 
 <br>
 
-![alt text](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~JTL2YDK6XZ7Y/CERTIFICATE_LANDING_PAGE~JTL2YDK6XZ7Y.jpeg)
+![alt text](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~6L77QHL3QA9Y/CERTIFICATE_LANDING_PAGE~6L77QHL3QA9Y.jpeg)
 
 * This repository written for reference and self-documentation purpose
 * Feel free to contribute!
